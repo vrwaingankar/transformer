@@ -6,7 +6,7 @@ Created on Sun Nov 27 18:36:23 2022
 @author: vinit
 """
 
-!pip install tensorflow_text
+#!pip install tensorflow_text
 
 # USAGE
 # python inference.py -s "input sentence"
